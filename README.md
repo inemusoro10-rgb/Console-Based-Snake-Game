@@ -25,13 +25,13 @@ A classic Snake game implemented in C++ as a console application. The player con
 5. To play the game, control the snake with the arrow keys. Eat the food and avoid collisions to score points.
 
 Project Structure
-├── Project.cpp        # Main entry point
-├── Player.cpp / Player.h       # Snake player logic
-├── Food.cpp / Food.h           # Food spawning and logic
-├── GameMechs.cpp / GameMechs.h # Core game mechanics and logic
-├── objPos.cpp / objPos.h       # Positioning system for objects
-├── objPosArrayList.cpp / objPosArrayList.h # Dynamic storage of object positions
-├── MacUILib.cpp / MacUILib.h   # Optional UI library for macOS console
-├── Makefile                   # Build automation
-├── .gitignore                 # Git ignore rules
-└── README.md                  # Project description and instructions
+─ Project.cpp        # Main entry point
+─ Player.cpp / Player.h       # Snake player logic
+─ Food.cpp / Food.h           # Food spawning and logic
+─ GameMechs.cpp / GameMechs.h # Core game mechanics and logic
+─ objPos.cpp / objPos.h       # Positioning system for objects
+─ objPosArrayList.cpp / objPosArrayList.h # Dynamic storage of object positions
+─ MacUILib.cpp / MacUILib.h   # Optional UI library for macOS console
+─ Makefile                   # Build automation
+─ .gitignore                 # Git ignore rules
+─ README.md                  # Project description and instructions
