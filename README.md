@@ -24,8 +24,8 @@ A classic Snake game implemented in C++ as a console application. The player con
    ./Project
 5. To play the game, control the snake with the arrow keys. Eat the food and avoid collisions to score points.
 
-Project Structure
-─ Project.cpp        # Main entry point
+## Project Structure
+─ Project.cpp        # Main entry point 
 ─ Player.cpp / Player.h       # Snake player logic
 ─ Food.cpp / Food.h           # Food spawning and logic
 ─ GameMechs.cpp / GameMechs.h # Core game mechanics and logic
